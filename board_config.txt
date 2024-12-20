@@ -1,2 +1,6 @@
 ! this file is used to define custom board-specific calibrations
 ! see also extra.txt for board-specific data points
+#define FUEL_RPM_COUNT 32
+#define FUEL_LOAD_COUNT 32
+#define IGN_LOAD_COUNT 32
+#define IGN_RPM_COUNT 32
